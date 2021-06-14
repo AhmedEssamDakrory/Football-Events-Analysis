@@ -4,7 +4,7 @@ This repo visualizes the characteristics of football in Europe and provides visu
 https://www.kaggle.com/secareanualin/football-events
 
 ## Repo Folders
-Footabll_match_analysis: contains visualization general graphs of dataset
-Players: compares players number and stats
-Model: contains the gambling model code and evaluation
-DataDistribution: contains the preprocessing map reduce code 
+Footabll_match_analysis: contains visualization general graphs of dataset  
+Players: compares players number and stats  
+Model: contains the gambling model code and evaluation  
+DataDistribution: contains the preprocessing map reduce code  
